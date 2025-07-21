@@ -15,6 +15,6 @@ Use Case:
 This tool is helpful for users who want to generate strong passwords for emails, websites, or applications where security is important.
 
 
-
+Output:
 <img width="361" height="110" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/51e22bfd-ef28-4146-94ef-345bee97be86" />
 
